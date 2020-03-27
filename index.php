@@ -17,11 +17,18 @@
       <div id="bottom"></div>
       <!-- code taken from https://css-tricks.com/body-border/ -->
 
+      <?php
+    // DO NOT REMOVE!
+      include("includes/header.php");
+      ?>
+
 
 
         <div class="homeContent">
           <p id="homeName"> Hi, I'm Jacob. </p>
-          <p id="homeUX"> User Experience Designer studying at Cornell University </p>
+          <div class="typewriter">
+            <p id="homeUX"> UX Designer studying at Cornell University </p>
+          </div>
           <p> <button> <a href="work.php"> My Projects </a> </button> </p>
           <p id ="homeLogos">
             <button>
