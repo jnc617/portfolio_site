@@ -115,6 +115,11 @@ footer ul li {
     margin-right: 5px;
 }
 
+footer {
+    height: 40px;
+    margin-top: -40px;
+}
+
 /* landing page */
 
 #top, #bottom, #left, #right {
@@ -160,6 +165,12 @@ footer ul li {
 
     margin: auto;
     /* border: 10px green; */
+
+    /* position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -100px; */
 }
 
 .homeContent p {
@@ -206,6 +217,8 @@ footer ul li {
     50% { border-color: #363636; } /* #78cc6d */
   }
 
+  /* code above taken from https://css-tricks.com/snippets/css/typewriter-effect/ */
+
 #projectsButton {
     border:none;
     background-color: #141414;
@@ -219,4 +232,11 @@ footer ul li {
 #projectsButton a {
     color: #ffffff;
     font-family: 'Roboto Slab Regular';
+}
+
+.footerHome {
+
+    position: absolute;
+    top: 90%;
+    left: 85%;
 }

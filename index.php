@@ -23,13 +23,19 @@
       ?>
 
 
-
         <div class="homeContent">
           <p id="homeName"> Hi, I'm Jacob </p>
           <div class="typewriter">
             <p id="homeUX"> UX Designer studying at Cornell University. </p>
           </div>
           <p> <button id="projectsButton"> <a href="work.php"> My Projects </a> </button> </p>
+
+        </div>
+
+
+
+      <div>
+        <footer class="footerHome">
           <p id ="homeLogos">
             <button>
               <a href="https://www.facebook.com/cornellpsa/?ref=br_rs"><img class="logos" src="images/fbgray.png" alt="Facebook Logo"/></a>
@@ -38,8 +44,8 @@
               <a href="https://www.instagram.com/cornellpsa/"><img class="logos" src="images/instagray.png" alt="Instagram Logo"/></a>
             </button>
           </p>
-
-        </div>
+        </footer>
+      </div>
 
 
 
