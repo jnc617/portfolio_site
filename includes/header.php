@@ -10,7 +10,7 @@
       <div>
         <ul class = "navLinks">
           <?php foreach ($pages as $page) { ?>
-            <li class = "<?php if ($current_file == $page[0]) {echo $current_style;}?>"><a href="<?php echo $page[0]?>"><?php echo $page[1] ?></a></li>
+            <li><a class = "<?php if ($current_file == $page[0]) {echo $current_style;}?>" href="<?php echo $page[0]?>"><?php echo $page[1] ?></a></li>
           <?php } ?>
         </ul>
       </div>

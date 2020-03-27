@@ -25,11 +25,11 @@
 
 
         <div class="homeContent">
-          <p id="homeName"> Hi, I'm Jacob. </p>
+          <p id="homeName"> Hi, I'm Jacob </p>
           <div class="typewriter">
-            <p id="homeUX"> UX Designer studying at Cornell University </p>
+            <p id="homeUX"> UX Designer studying at Cornell University. </p>
           </div>
-          <p> <button> <a href="work.php"> My Projects </a> </button> </p>
+          <p> <button id="projectsButton"> <a href="work.php"> My Projects </a> </button> </p>
           <p id ="homeLogos">
             <button>
               <a href="https://www.facebook.com/cornellpsa/?ref=br_rs"><img class="logos" src="images/fbgray.png" alt="Facebook Logo"/></a>
