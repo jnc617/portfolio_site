@@ -1,18 +1,11 @@
-<footer>
-    <div class="logoDiv">
-        <ul>
-            <li>
-                <a href="https://www.facebook.com/cornellpsa/?ref=br_rs"><img class="logos"
-                src="images/fbgray.png" alt="Facebook Logo"/></a>
-            </li>
-            <li>
-                <a href="https://www.instagram.com/cornellpsa/"><img class="logos"
-                src="images/instagray.png" alt="Instagram Logo"/></a>
-            </li>
-        </ul>
-    </div>
-
-    <div id="myFooterName">
-        <p> Jacob Chovanec </p>
-    </div>
-</footer>
+<div>
+        <footer class="footerHome">
+            <div class="footerSentence">
+                <p> Website designed and developed by Jacob Chovanec. </p>
+            </div>
+            <div class="moveFooterHome">
+              <a href="https://www.linkedin.com/in/j-chovanec/"><img class="homelogos" src="images/linkedInLogo.png" alt="LinkedIn Logo"/></a>
+              <a href="mailto:jnc83@cornell.edu"><img class="homelogos mailLogo" src="images/emailLogo.png" alt="Email Logo"/></a>
+            </div>
+        </footer>
+      </div>

@@ -1,3 +1,9 @@
+<div id="left"></div>
+<div id="right"></div>
+<div id="top"></div>
+<div id="bottom"></div>
+<!-- code taken from https://css-tricks.com/body-border/ -->
+
 <header>
   <div class = "navbarAll">
     <?php $pages = [['index.php', 'Home'],['work.php', 'Work'], ['aboutme.php', 'About Me'], ['https://www.dropbox.com/s/48oegt7b92yudsd/resume%20SU19.pdf?dl=0', 'Resume']/*, ['gallery.php', 'Photo Gallery']*/] ?>

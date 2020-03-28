@@ -11,11 +11,8 @@
 
 <body>
 
-      <div id="left"></div>
-      <div id="right"></div>
-      <div id="top"></div>
-      <div id="bottom"></div>
-      <!-- code taken from https://css-tricks.com/body-border/ -->
+
+
 
       <?php
     // DO NOT REMOVE!
@@ -33,19 +30,11 @@
         </div>
 
 
+        <?php
+    // DO NOT REMOVE!
+      include("includes/footer.php");
+      ?>
 
-      <div>
-        <footer class="footerHome">
-          <p id ="homeLogos">
-            <button>
-              <a href="https://www.facebook.com/cornellpsa/?ref=br_rs"><img class="logos" src="images/fbgray.png" alt="Facebook Logo"/></a>
-            </button>
-            <button>
-              <a href="https://www.instagram.com/cornellpsa/"><img class="logos" src="images/instagray.png" alt="Instagram Logo"/></a>
-            </button>
-          </p>
-        </footer>
-      </div>
 
 
 
