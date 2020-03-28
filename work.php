@@ -17,10 +17,29 @@
       <div id="bottom"></div>
 
 <?php
-// DO NOT REMOVE!
 include("includes/header.php");
 ?>
 
+  <div class = "workImageRow">
+    <figure>
+      <div class = "eachWorkPic">
+        <img class="workPagePics" src = "images/GRTworkPageTransparent.png" alt = "System Access Review Tool Logo"/>
+        <img class="workPagePics imageTop" src = "images/GRTworkPage.jpg" alt = "System Access Review Tool Logo"/>
+      </div>
+    </figure>
+    <figure>
+      <div class = "eachWorkPic">
+        <img class="workPagePics" src = "images/APASworkPageTransparent.png" alt = "Any Person Any Study Logo"/>
+        <img class="workPagePics imageTop" src = "images/APASworkPage.png" alt = "Any Person Any Study Logo"/>
+      </div>
+    </figure>
+    <figure>
+      <div class = "eachWorkPic">
+        <img class="workPagePics" src = "images/CWRworkPageTransparent.png" alt = "Cornell Welcomes Refugees Logo"/>
+        <img class="workPagePics imageTop" src = "images/CWRworkPage.jpg" alt = "Cornell Welcomes Refugees Logo"/>
+      </div>
+    </figure>
+  </div>
 
 
 
@@ -28,7 +47,6 @@ include("includes/header.php");
 
 
 <?php
-// DO NOT REMOVE!
 include("includes/footer.php");
 ?>
 

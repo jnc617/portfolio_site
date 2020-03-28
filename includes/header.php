@@ -6,7 +6,7 @@
 
 <header>
   <div class = "navbarAll">
-    <?php $pages = [['index.php', 'Home'],['work.php', 'Work'], ['aboutme.php', 'About Me'], ['https://www.dropbox.com/s/48oegt7b92yudsd/resume%20SU19.pdf?dl=0', 'Resume']/*, ['gallery.php', 'Photo Gallery']*/] ?>
+    <?php $pages = [['index.php', 'Home'],['work.php', 'Work'], ['aboutme.php', 'About Me'], ['https://www.dropbox.com/s/80ijtmi7hjs3bfu/resume%20SU19.pdf?dl=0', 'Resume']/*, ['gallery.php', 'Photo Gallery']*/] ?>
 
       <?php $current_file = basename($_SERVER['PHP_SELF']);
       // code above taken from INFO 2300 lab02 write up https://github.coecis.cornell.edu/info2300-sp2019/info2300-sp2019-website/blob/master/assignments/lab-03/lab-3.md
