@@ -24,7 +24,7 @@ include("includes/header.php");
     <figure>
       <div class = "eachWorkPic">
         <img class="workPagePics" src = "images/GRTworkPageTransparent.png" alt = "System Access Review Tool Logo"/>
-        <img class="workPagePics imageTop" src = "images/GRTworkPage.jpg" alt = "System Access Review Tool Logo"/>
+        <img class="workPagePics imageTop" src = "images/GRTworkPage.png" alt = "System Access Review Tool Logo"/>
       </div>
     </figure>
     <figure>
@@ -35,8 +35,8 @@ include("includes/header.php");
     </figure>
     <figure>
       <div class = "eachWorkPic">
-        <img class="workPagePics" src = "images/CWRworkPageTransparent.png" alt = "Cornell Welcomes Refugees Logo"/>
-        <img class="workPagePics imageTop" src = "images/CWRworkPage.jpg" alt = "Cornell Welcomes Refugees Logo"/>
+        <img class="workPagePics" src = "images/CWRworkPageTransparent2.png" alt = "Cornell Welcomes Refugees Logo"/>
+        <img class="workPagePics imageTop" src = "images/CWRworkPage.png" alt = "Cornell Welcomes Refugees Logo"/>
       </div>
     </figure>
   </div>
