@@ -1,7 +1,3 @@
-<div id="left"></div>
-<div id="right"></div>
-<div id="top"></div>
-<div id="bottom"></div>
 <!-- code taken from https://css-tricks.com/body-border/ -->
 
 <header>

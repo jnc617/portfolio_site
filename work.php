@@ -11,11 +11,6 @@
 
 <body>
 
-<div id="left"></div>
-      <div id="right"></div>
-      <div id="top"></div>
-      <div id="bottom"></div>
-
 <?php
 include("includes/header.php");
 ?>
@@ -49,6 +44,7 @@ include("includes/header.php");
 <?php
 include("includes/footer.php");
 ?>
+
 
 </body>
 </html>
