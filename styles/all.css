@@ -337,22 +337,12 @@ footer {
     top: 0;
     left: 0;
     z-index: 99;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
 
 }
 
-/* .imageTop {
-    border-top-right-radius: 5px;
-    border-top-left-radius: 5px;
-    border-top: 1px solid #bbbbbb;
-}
-
-.transparent {
-    border-top-right-radius: 5px;
-    border-top-left-radius: 5px;
-    border-top: 1px solid #bbbbbb;
-} */
-
-.eachWorkPic:hover .imageTop {
+.workPicAndCap:hover .eachWorkPic .imageTop {
     display: inline;
 }
 
@@ -388,6 +378,36 @@ figcaption {
 #caption3 {
     text-decoration: underline;
     text-decoration-color: #fff79a;
+}
+
+#caption1:hover {
+    border-bottom: 1px solid #f7a072;
+    border-left: 1px solid #f7a072;
+    border-right: 1px solid #f7a072;
+}
+
+#caption2:hover {
+    border-bottom: 1px solid #88bec8;
+    border-left: 1px solid #88bec8;
+    border-right: 1px solid #88bec8;
+}
+
+#caption3:hover {
+    border-bottom: 1px solid #fff79a;
+    border-left: 1px solid #fff79a;
+    border-right: 1px solid #fff79a;
+}
+
+figcaption:hover + .eachWorkPic .imageTop {
+    display: inline;
+}
+
+#caption2:hover + .eachWorkPic .imageTop {
+    display: inline;
+}
+
+#caption3:hover + .imageTop {
+    display: inline;
 }
 
 .eachWorkPic:hover + #caption1{
