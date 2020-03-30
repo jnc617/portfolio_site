@@ -15,6 +15,15 @@
 include("includes/header.php");
 ?>
 
+  <div class="eachPageHeading">
+    <p class="pageTitle"> My Work </p>
+    <div class="typewriter">
+      <p class="pageSubtitle"> UX Designer studying at Cornell University. </p>
+      <!-- This phrase should be the same amount of characters as "UX Designer studying at Cornell University." for typewriter to work -->
+    </div>
+    <!-- Maybe instead of a subtitle add an animated arrow that when clicked takes them down to my projects? -->
+  </div>
+
   <div class = "workImageRow">
     <figure>
       <div class="workPicAndCap">

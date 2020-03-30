@@ -257,11 +257,6 @@ footer {
     color: #363636;
     font-family: 'Roboto Slab Regular';
 }
-/*
-#homeLogos {
-    margin-top: 15px;
-    justify-content: flex-end;
-} */
 
 .typewriter p {
     overflow: hidden; /* Ensures the content is not revealed until the animation */
@@ -313,7 +308,7 @@ footer {
     flex-wrap: wrap;
     justify-content: center;
     text-align: center;
-    margin-top: 20vh;
+    margin-top: 10vh;
 }
 
 .workPagePics {
@@ -398,18 +393,6 @@ figcaption {
     border-right: 1px solid #fff79a;
 }
 
-figcaption:hover + .eachWorkPic .imageTop {
-    display: inline;
-}
-
-#caption2:hover + .eachWorkPic .imageTop {
-    display: inline;
-}
-
-#caption3:hover + .imageTop {
-    display: inline;
-}
-
 .eachWorkPic:hover + #caption1{
     border-bottom: 1px solid #f7a072;
     border-left: 1px solid #f7a072;
@@ -436,4 +419,24 @@ figcaption:hover + .eachWorkPic .imageTop {
 .workImageRow figure figcaption p{
     font-family: 'Lato Regular';
     font-size: 12px;
+}
+
+.pageTitle {
+    font-size: 60px;
+    color: #141414;
+    padding-bottom: 5px;
+    font-family: 'Lato Regular';
+    text-align: center;
+}
+
+.pageSubtitle {
+    font-size: 15px;
+    color: #363636;
+    font-family: 'Roboto Slab Regular';
+    width: 200px;
+}
+
+.eachPageHeading {
+    justify-content: center;
+    text-align: center;
 }
