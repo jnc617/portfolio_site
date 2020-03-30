@@ -10,12 +10,19 @@
     src: url(../fonts/RobotoMono/RobotoMono-Regular.ttf);
 }
 
+@font-face {
+    font-family: 'Lato Regular';
+    font-style: normal;
+    src: url(../fonts/Lato2OFL/Lato-Regular.ttf);
+}
+
 body {
     margin-left: auto;
     margin-right: auto;
     width: 100%;
     margin-top: 3%;
-    font-family: 'Roboto Slab Regular';
+    font-family: 'Lato Regular';
+    background-color: #ffffff;
 }
 
 /* nav bar All */
@@ -131,7 +138,7 @@ footer {
     flex-flow: row;
     flex-wrap: nowrap;
     margin-top: 100px;
-    margin-bottom: 60px;
+    margin-bottom: 40px;
 }
 
 .moveFooterGeneral {
@@ -242,11 +249,13 @@ footer {
     font-size: 60px;
     color: #141414;
     padding-bottom: 5px;
+    font-family: 'Roboto Slab Regular';
 }
 
 #homeUX {
     font-size: 15px;
     color: #363636;
+    font-family: 'Roboto Slab Regular';
 }
 /*
 #homeLogos {
@@ -308,13 +317,17 @@ footer {
 }
 
 .workPagePics {
-    width: 300px ;
+    width: 300px;
     height: 300px;
+    background-color: #f9fafc;
+    margin-bottom: 0;
+
 }
 
 .eachWorkPic {
     position: relative;
     display: inline-block;
+    margin-bottom: 0;
 
 }
 
@@ -324,9 +337,56 @@ footer {
     top: 0;
     left: 0;
     z-index: 99;
-    border-radius: 10px;
+
 }
+
+/* .imageTop {
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top: 1px solid #bbbbbb;
+}
+
+.transparent {
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top: 1px solid #bbbbbb;
+} */
 
 .eachWorkPic:hover .imageTop {
     display: inline;
+}
+
+figcaption {
+    font-family: 'Roboto Slab Regular';
+}
+
+.workImageRow figure figcaption{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: left;
+    font-size: 18px;
+    padding-left: 7px;
+    padding-right: 7px;
+    border-bottom: 1px solid #f9fafc;
+    border-left: 1px solid #f9fafc;
+    border-right: 1px solid #f9fafc;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin-top: 0;
+}
+
+.eachWorkPic:hover + #caption1{
+    border-bottom: 1px solid #f7a072;
+    border-left: 1px solid #f7a072;
+    border-right: 1px solid #f7a072;
+}
+
+.workImageRow figure {
+    width: 300px;
+
+}
+
+.workImageRow figure figcaption p{
+    font-family: 'Lato Regular';
+    font-size: 12px;
 }
