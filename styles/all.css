@@ -411,6 +411,10 @@ figcaption {
     border-right: 1px solid #fff79a;
 }
 
+/* .eachWorkPic:hover + .workDescriptions {
+    text-decoration: none;   TRYING TO GET RID OF THE UNDERLINE ON THE DESCRIPTION WHEN HOVERING
+} */
+
 .workImageRow figure {
     width: 300px;
 
@@ -439,4 +443,46 @@ figcaption {
 .eachPageHeading {
     justify-content: center;
     text-align: center;
+}
+
+/* general classes for each project */
+
+.eachWorkPageHeading {
+    justify-content: center;
+    text-align: center;
+}
+
+.goalOfProjectSection {
+    text-align: left;
+}
+
+.pageContent {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.descriptionRow {
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap;
+}
+
+.column1 {
+    width: 50%;
+}
+
+.column2 {
+    width: 45%;
+    padding-left: 3vw;
+}
+
+/* GRT Page */
+
+.processPicture1 {
+    width: 75vw;
+}
+
+.toolsPicture1 {
+    width: 30vw;
 }

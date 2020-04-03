@@ -34,7 +34,7 @@ include("includes/header.php");
           </div>
           <figcaption id="caption1" class="workpagecaptions">
             Access Review Tool
-            <p> ;lakjsdf;lkjasdl;kjf;lkajsdf;ljasd a;lksdjfl;kjas dkf asdkf;ask djf ;lsajd;flj as;dlkj f </p>
+            <p class="workDescriptions"> Professional Project Completed During My UX Internship at L3Harris Technologies </p>
           </figcaption>
         </div>
       </figure>
@@ -48,7 +48,7 @@ include("includes/header.php");
           </div>
           <figcaption id="caption2" class="workpagecaptions">
             Any Person Any Study
-            <p> ;lakjsdf;lkjasdl;kjf;lkajsdf;ljasd a;lksdjfl;kjas dkf asdkf;ask djf ;lsajd;flj as;dlkj f </p>
+            <p class="workDescriptions"> HCI Design Project Meant to Bring the Cornell Community Together </p>
           </figcaption>
         </div>
       </figure>
@@ -62,7 +62,7 @@ include("includes/header.php");
           </div>
           <figcaption id="caption3" class="workpagecaptions">
             Cornell Welcomes Refugees Website
-            <p> ;lakjsdf;lkjasdl;kjf;lkajsdf;ljasd a;lksdjfl;kjas dkf asdkf;ask djf ;lsajd;flj as;dlkj f </p>
+            <p class="workDescriptions"> Delivering a Dynamic Website to a Real Client</p>
           </figcaption>
         </div>
       </figure>
