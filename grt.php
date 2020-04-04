@@ -130,10 +130,10 @@ include("includes/header.php");
             </div>
 
             <div class="grtUISketches">
-                <img class="GRTsketches" src = "images/GRTsketch1.jpg" alt = "Manager UI Sketch 1"/>
-                <img class="GRTsketches" src = "images/GRTsketch2.jpg" alt = "Manager UI Sketch 2"/>
-                <img class="GRTsketches" src = "images/GRTsketch3.jpg" alt = "Coordinator UI Sketch 1"/>
-                <img class="GRTsketches" src = "images/GRTsketch4.jpg" alt = "Coordinator UI Sketch 2"/>
+                <img class="GRTsketches" src = "images/GRTsketch1a.png" alt = "Manager UI Sketch 1"/>
+                <img class="GRTsketches" src = "images/GRTsketch2a.png" alt = "Manager UI Sketch 2"/>
+                <img class="GRTsketches" src = "images/GRTsketch3a.png" alt = "Coordinator UI Sketch 1"/>
+                <img class="GRTsketches" src = "images/GRTsketch4a.png" alt = "Coordinator UI Sketch 2"/>
             </div>
 
         </div>

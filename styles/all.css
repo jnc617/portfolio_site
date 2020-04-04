@@ -509,9 +509,12 @@ figcaption {
 }
 
 .GRTsketches {
-    width: 300px;
+    width: 330px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: auto;
-    margin-bottom: auto;
+    margin-bottom: 40px;
+}
+
+.grtUISketches img {
+    border: 1px solid #363636
 }
