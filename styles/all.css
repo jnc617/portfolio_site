@@ -476,11 +476,6 @@ figcaption {
     margin-right: auto;
 }
 
-/* .column {
-    width: 45%;
-    padding-left: 3vw;
-} */
-
 /* GRT Page */
 
 .processPicture1 {
@@ -505,4 +500,18 @@ figcaption {
     width: 40%;
     margin-left: auto;
     margin-right: auto;
+}
+
+.grtUISketches {
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap;
+}
+
+.GRTsketches {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
 }

@@ -128,6 +128,14 @@ include("includes/header.php");
                     <li>Need a way to generate new access reviews</li>
                 </ul>
             </div>
+
+            <div class="grtUISketches">
+                <img class="GRTsketches" src = "images/GRTsketch1.jpg" alt = "Manager UI Sketch 1"/>
+                <img class="GRTsketches" src = "images/GRTsketch2.jpg" alt = "Manager UI Sketch 2"/>
+                <img class="GRTsketches" src = "images/GRTsketch3.jpg" alt = "Coordinator UI Sketch 1"/>
+                <img class="GRTsketches" src = "images/GRTsketch4.jpg" alt = "Coordinator UI Sketch 2"/>
+            </div>
+
         </div>
 
 
