@@ -62,10 +62,10 @@ include("includes/header.php");
         <hr>
 
         <div class = "processAndTools">
-            <h4> Process </h4>
+            <h4> Process: </h4>
             <img class="processPicture1" src = "images/process1.png" alt = "Process for the System Access Review Tool"/>
 
-            <h4> Tools </h4>
+            <h4> Tools: </h4>
             <img class="toolsPicture1" src = "images/tools1.png" alt = "Tools Used for the System Access Review Tool"/>
         </div>
 

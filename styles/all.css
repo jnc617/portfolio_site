@@ -37,6 +37,7 @@ body {
     padding-top: 0px;
     height: 90%;
     justify-content: flex-end;
+    font-family: 'Roboto Slab Regular';
 
 } /* code taken from Adobe site jnc83.myportfolio.com */
 
@@ -104,6 +105,7 @@ footer {
     text-align: center;
     margin-top: 40px;
     font-size: 20px;
+    font-family: 'Roboto Slab Regular'
 }
 
 footer .logoDiv {
@@ -150,7 +152,7 @@ footer {
 .footerSentenceGeneral {
     color: #999999;
     padding-left: 80px;
-    font-size: .83vw;
+    font-size: 10px;
     text-align: left;
     width: 50%;
 }
@@ -476,6 +478,18 @@ figcaption {
     width: 45%;
     padding-left: 3vw;
 }
+
+/* h5{
+    font-family: 'Roboto Slab Regular';
+}
+
+h4{
+    font-family: 'Roboto Slab Regular';
+} */
+
+/* h6{
+    font-family: 'Roboto Slab Regular';
+} */
 
 /* GRT Page */
 
