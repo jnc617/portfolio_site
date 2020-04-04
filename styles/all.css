@@ -470,25 +470,15 @@ figcaption {
     flex-flow: wrap;
 }
 
-.column1 {
-    width: 50%;
+.column {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-.column2 {
+/* .column {
     width: 45%;
     padding-left: 3vw;
-}
-
-/* h5{
-    font-family: 'Roboto Slab Regular';
-}
-
-h4{
-    font-family: 'Roboto Slab Regular';
-} */
-
-/* h6{
-    font-family: 'Roboto Slab Regular';
 } */
 
 /* GRT Page */
@@ -499,4 +489,20 @@ h4{
 
 .toolsPicture1 {
     width: 30vw;
+}
+
+.frustrationsAndNeedsPics {
+    width:60vw;
+}
+
+.reviewersAndCoordinatorsLists {
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap;
+}
+
+.reviewersAndCoordinatorsLists ul {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
 }
