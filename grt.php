@@ -111,6 +111,8 @@ include("includes/header.php");
             </ul>
         </div>
 
+        <hr>
+
         <div class="ideateSection">
             <h4> Ideate: </h4>
             <p>Once I defined the problem and the solution, I started to sketch some ideas of what I wanted the site to look like. </p>
@@ -136,16 +138,95 @@ include("includes/header.php");
                 <img class="GRTsketches" src = "images/GRTsketch4a.png" alt = "Coordinator UI Sketch 2"/>
             </div>
 
+            <div class="PInotice">
+                <p><em>NOTICE:</em> Because it is considered proprietary information, I am not allowed to show any part of the actual sketches or wire frames that I created for this project, as they may contain sensitive information that the company does not permit any of its employees to share.  What you see here are representations of the sketches and wire frames that I created for this project, with a slightly altered color scheme and all pertinent details removed.</p>
+            </div>
+
+            <div class ="GRTMockupsContainer">
+                <div class="GRTMockupPicsColumn">
+                    <img class="GRTMockupPics" src = "images/CoordinatorMockup.png" alt = "Wireframe of Coordinator Page"/>
+                    <img class="GRTMockupPics" src = "images/ManagerMockup.png" alt = "Wireframe of Manager Page"/>
+                </div>
+                <div class="GRTMockupPicCaption">
+                    <p>After sketching, I created the wireframes for the main pages of the app.  The coordinator page in which they can view the specific details of a particular access review and the reviewer page where they choose to verify or revoke access for the employees in their review.  This allowed me to start developing my design further and get a better grasp of the features and workflows of the UI.</p>
+                    <p><em>These wireframes were originally created with balsamiq, but because I needed to recreate them for this portfolio, I needed to use MockFlow since I do not have a license to use balsamiq.</em></p>
+                </div>
+            </div>
         </div>
 
+            <hr>
 
+            <div class="prototypeSection">
+                <h4> Prototype: </h4>
 
+                <p>Using Axure, I created a high-fidelity prototype of the web application.  These screens represent the typical workflow a user of the application would go through to complete their tasks.  Coordinators have the necessary pages to review different access reviews and see details about each individual one and managers have a clean, easy-to-use UI to allow them to quickly complete their review.</p>
 
+                <p>NOTICE: Because it is considered proprietary information, I am not allowed to show any part of the actual hi-fidelity prototype I created for this project as they may contain sensitive information that the company does not permit any of its employees to share.  What you see below are representations of the hi-fi prototype I created for this project, with a slightly altered color scheme and all pertinent details removed.</p>
 
+                <h6>Coordinator UI</h6>
+                <div class="coordinatorPrototypeUIPicGroup">
+                    <img class="coordinatorPrototypeUIPics" src = "images/coordinatorP1.png" alt = "First Prototype of Coordinator Page"/>
+                    <img class="coordinatorPrototypeUIPics" src = "images/coordinatorP3.png" alt = "Third Prototype of Coordinator Page"/>
+                    <img class="coordinatorPrototypeUIPics" src = "images/coordinatorP2.png" alt = "Second Prototype of Coordinator Page"/>
+                </div>
 
+                <p>These UIs represent the core function of the coordinator's job:  oversee all of the different reviews happening and their details at a high level, drill down and view the specific details of each review, and start a new review.</p>
 
+                <h6>Reviewer UI</h6>
+                <div class="coordinatorPrototypeUIPicGroup">
+                    <img class="coordinatorPrototypeUIPics" src = "images/reviewerP1.png" alt = "First Prototype of Reviewer Page"/>
+                    <img class="coordinatorPrototypeUIPics" src = "images/reviewerP2.png" alt = "Second Prototype of Reviewer Page"/>
+                </div>
+
+                <p>The reviewers' core function in the access review process is to actually review the access of the users assigned to them.  These UIs allow them to see the different access reviews they need to complete and then proceed to do so one at a time.</p>
+            </div>
+
+            <hr>
+
+            <div class="validateSection">
+                <h4>Validate:</h4>
+
+                <p>I tested the high-fidelity prototype on 7 users to gather feedback from coordinators and reviewers.</p>
+
+                <p>I received positive feedback and a few call-outs that I addressed after testing. For example:</p>
+
+                <ul>
+                    <li>The visibility of the "Review History" button was poor when I initially tested the prototype.  I corrected this by making it the same size as the "Start New Review" Button and moving it beside said button, as you can see in the Coordinator Landing Page</li>
+                    <li>Initially on the Reviewing Page there were multiple check boxes that needed to be confirmed before a user could submit.  After users mentioned that it felt clunky and slowed down their workflow, I reduced it to one confirmation checkbox</li>
+                    <li>Most users said they believe this application will provide an "incredible improvement" over the current access review process</li>
+                </ul>
+            </div>
+
+            <hr>
+
+            <div class = "futureConsiderationsSections">
+                <h4>Futer Considerations:</h4>
+
+                <p>Due to the nature of this project (summer intern project), the discovery time for this project was very short.  Because of this, I did not have as strong of an understanding of the requirements and scope of this project as I would have liked to.  I believe more discovery time in the beginning would allow me to have a more productive ideate phase, as I would have a better since of what we are designing for in the beginning</p>
+
+                <p>At one point in this project, I got very caught up in working on the fine details of the high-fi prototype prior to validation.  Because of this, I neglected to consider putting time aside to prepare for user testing, which led to me rushing to prepare for tests, conduct user tests, and get the results back to my team.  For the future, I plan on keeping all stages of the design process in mind throughout my projects, so that I give each phase the time and effort it needs.</p>
+            </div>
+
+            <hr>
+
+            <div class = "TakeawaysSections">
+                <h4>Takeaways:</h4>
+
+                <p>This was my first time working on a professional project and it provided me with an excellent experience.  I had the opportunity to develop professionally and grow as a person.  Here's how:</p>
+
+                <ul>
+                    <li>I had the opportunity to work on an Agile Scrum team with two developers and a systems engineer</li>
+                    <li>I improved my skills in every stage of the design process, from discovery to validation</li>
+                    <li>I gained experience working in a professional setting and now better understand the business aspects of Information Technology</li>
+                    <li>I learned how to be a better teammate, communicator, and leader because of this project</li>
+                </ul>
+
+                <p>Most of all, I was able to work with some amazing and talented people.  We were able to create a web application that is currently being used by the company to boost efficiency and productivity, something that is already making a real-world impact. For those reasons and more, my first professional experience in UX proved to be incredibly rewarding and fulfilling.</p>
+            </div>
 
     </div>
+
+
 
 
 <?php

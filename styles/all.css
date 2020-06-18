@@ -518,3 +518,49 @@ figcaption {
 .grtUISketches img {
     border: 1px solid #363636
 }
+
+.PInotice {
+    text-align: center;
+}
+
+.GRTMockupsContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.GRTMockupPicsColumn {
+    display: flex;
+    flex-direction: column;
+}
+
+.GRTMockupPics {
+    width: 50vw;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+.GRTMockupPicCaption {
+    margin-left: auto;
+    margin-right:auto;
+}
+
+.coordinatorPrototypeUIPicGroup {
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap;
+    vertical-align: center;
+}
+
+.coordinatorPrototypeUIPics {
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1vw;
+}
+
+/* APAS Page */
+
+.processPicture3 {
+    width: 75vw;
+}
