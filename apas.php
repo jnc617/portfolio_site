@@ -17,7 +17,7 @@ include("includes/header.php");
 
     <div class = "eachWorkPageHeading">
         <h2> Access Review Tool </h2>
-        <h6> Professional Project Completed During My UX Internship at L3Harris Technologies </h4>
+        <h6> Professional Project Completed During My UX Internship at L3Harris Technologies </h6>
     </div>
 
     <div class = "pageContent">
@@ -62,7 +62,7 @@ include("includes/header.php");
             <img class="processPicture3" src = "images/process3.png" alt = "Process for the Any Person Any Activity"/>
 
             <h4> Tools: </h4>
-            <img class="toolsPicture1" src = "images/tools1.png" alt = "Tools Used for the System Access Review Tool"/>
+            <img class="toolsPicture2" src = "images/tools2a.png" alt = "Tools Used for the Any Person Any Activity Project"/>
         </div>
 
         <hr>
@@ -70,41 +70,40 @@ include("includes/header.php");
         <div class="problemSection">
             <h4> The Problem: </h4>
 
-            <p>The access review process was manual, convoluted, and a major time waster for all employees involved.  We needed to automate part of this process with a new internal web application. </p>
-
-            <p>Coordinators of these access reviews spent 15% of their weekly time working on these reviews. This is a huge productivity dampener, especially considering that these coordinators still have to fulfill their normal job functions outside of their access review responsibilities.  At the same time, reviewers had a hard time keeping track of which employees they are responsible for and whether they completed the access review for each employee.</p>
+            <p>The campus climate at Cornell University can feel like a reserved and clique-y environment at times, making it difficult for new students to find a solid foundation of friends if they don’t participate in athletics or Greek life. Many students are afraid to step out of their social circles and interact with unfamiliar faces.  The Cornell community needed a way to facilitate stranger-to-stranger interaction.​​​​​​​ </p>
         </div>
 
         <div class="understandSection">
             <h4> Understand: </h4>
 
-            <p> I sat down with employees that work in the access review process to get a better understanding of the process.  I learned about the pain points employees face as well as the needs and wants of our users. </p>
+            <p> To better understand the reason why Cornell students are hesitant to mingle outside of their social circles, we interviewed students to find out what is causing our issue. </p>
 
-            <img class="frustrationsAndNeedsPics" src = "images/GRTfrustrations.png" alt = "Frustrations for the Access Review Tool"/>
+            <p> I conducted 2 out of 5 of the contextual interviews carried out by our team.  The majority of our interviewees believed that they would be greatly motivated to step outside of their social circles and meet new people if they knew what they shared in common with said strangers, as people are afraid of the awkwardness of meeting someone and not knowing what they have in common. </p>
 
-            <img class="frustrationsAndNeedsPics" src = "images/GRTneeds.png" alt = "Needs for the Access Review Tool"/>
+            <h5> We discovered that: </h5>
+
+            <img class="apasunderstandpic" src = "images/apas_understandpic.png" alt = "What we discovered for our project"/>
+
+            <p> Additionally, we conducted <strong> solution space analysis </strong> to evaluate what other apps exist that help resolve the issue we’ve found. </p>
+
+            <p> We determined that: </p>
+
+            <p> - There are no apps that bring people together based on common interests (the closest thing we found were dating apps like Tinder, Bumble, etc.)</p>
+
+            <p> - The current solution space is not sufficient to help connect the larger Cornell community as there are no apps that help facilitate stepping out of social circles due to shared common interest.</p>
         </div>
+
+        <hr>
 
         <div class="defineSection">
             <h4>Define: </h4>
-            <p> After collecting information from user interviews and research I set out to define the MVP for our project. </p>
+            <p> I used an affinity diagram to organize the data found in the understand phase.​​​​​​​ </p>
 
-            <p>To improve the access review process for coordinators, our application needs:</p>
+            <p>Grouping the data allowed my team and I to make connections throughout our data which helped us understand the data more clearly and, therefore,  generate stronger design ideas.​​​​​​​</p>
 
-            <ul>
-                <li> A way to generate new access review audits </li>
-                <li> Send quick auto generated email reminders to managers to review access (nudge) </li>
-                <li> Send quick auto generated email reminders to managers to review access (nudge) </li>
-                <li>Ability to review ongoing access reviews and track manager progress</li>
-                <li>Ability to view past access reviews</li>
-            </ul>
 
-            <p>To improve the access review process for reviewers, our application needs:</p>
 
-            <ul>
-                <li> A way for reviewers to see what employees they need to have reviewed </li>
-                <li> Need a quick way for managers to approve/disapprove access </li>
-            </ul>
+
         </div>
 
         <hr>

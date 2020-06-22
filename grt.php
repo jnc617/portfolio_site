@@ -17,7 +17,7 @@ include("includes/header.php");
 
     <div class = "eachWorkPageHeading">
         <h2> Access Review Tool </h2>
-        <h6> Professional Project Completed During My UX Internship at L3Harris Technologies </h4>
+        <h6> Professional Project Completed During My UX Internship at L3Harris Technologies </h6>
     </div>
     <div class = "pageContent">
         <div class="goalOfProjectSection">

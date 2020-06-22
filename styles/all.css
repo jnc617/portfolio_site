@@ -564,3 +564,14 @@ figcaption {
 .processPicture3 {
     width: 75vw;
 }
+
+.apasunderstandpic {
+    width: 30vw;
+}
+
+/* About Me Page */
+
+.aboutMeLinks {
+    color: rgb(236, 40, 40);
+    text-decoration: underline;
+}
