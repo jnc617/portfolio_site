@@ -575,3 +575,20 @@ figcaption {
     color: rgb(236, 40, 40);
     text-decoration: underline;
 }
+
+.AboutMeContent {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.aboutHalfPage {
+    justify-content: center;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+.aboutHalfPage img {
+    width: 40vh;
+}

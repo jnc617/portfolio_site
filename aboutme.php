@@ -20,8 +20,8 @@ include("includes/header.php");
         <h2> About Me </h2>
     </div>
     <div class = "pageContent">
-      <ul>
-        <li>
+      <div class= "AboutMeContent">
+        <div class="aboutHalfPage">
           <h3> Hello! </h3>
           <p>
             I'm Jacob, a User Experience Designer who loves to bridge the gap between humans and technology. I strive to bring beautiful, user-centered designs to tech that's built to improve lives everyday.  Currently, I am a senior at <a href="http://infosci.cornell.edu/" class="aboutMeLinks"> Cornell </a> studying Information Science, with a concentration in User Experience Design.  This past summer, I was a User Experience Intern at <a href="https://www.l3harris.com/" class="aboutMeLinks"> L3Harris Technologies </a>, and I am currently pursuing a full-time UX position upon the completion of my Bachelor's degree in May 2020.
@@ -43,12 +43,12 @@ include("includes/header.php");
             Feel free to reach out any time! You can message on the links below:
           </p>
 
-        </li>
+        </div>
 
-        <li>
+        <div class="aboutHalfPage">
           <img class="headshot" src = "images/headshot.png" alt = "Picture of Me"/>
-        </li>
-      </ul>
+        </div>
+      </div>
     </div>
 
 

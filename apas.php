@@ -101,6 +101,55 @@ include("includes/header.php");
 
             <p>Grouping the data allowed my team and I to make connections throughout our data which helped us understand the data more clearly and, therefore,  generate stronger design ideas.​​​​​​​</p>
 
+            <div>
+                <figure>
+                    <img src = "images/affinityDiagram.jpg" alt = "Affinity diagram for our project"/>
+                    <figcaption>
+                        Entire affinity diagram
+                    </figcaption>
+                </figure>
+
+                <figure>
+                    <img src = "images/relationships.jpg" alt = "Relationships Branch of the affinity diagram"/>
+                    <figcaption>
+                        Relationships
+                    </figcaption>
+                </figure>
+
+                <figure>
+                    <img src = "images/technology.jpg" alt = "Technology Branch of the affinity diagram"/>
+                    <figcaption>
+                        Technology
+                    </figcaption>
+                </figure>
+
+                <figure>
+                    <img src = "images/commute.jpg" alt = "Commute Branch of the affinity diagram"/>
+                    <figcaption>
+                        Commute
+                    </figcaption>
+                </figure>
+
+                <figure>
+                    <img src = "images/strangerInteraction.jpg" alt = "Stranger Interaction Branch of the affinity diagram"/>
+                    <figcaption>
+                        Stranger Interaction
+                    </figcaption>
+                </figure>
+            </div>
+
+            <p> Above you can see the entire affinity diagram as well as pictures of 4/6 branches. </p>
+
+            <h6> Persona </h6>
+
+            <p> We then created a persona to better understand our user’s needs, wants, and struggles. </p>
+
+            <p> Our persona is a shy student focused on her academic, who wants to make new friends outside of her tight social circle.  <strong> Because of this, we were able to gain a better idea of who the target user base for our design is. </strong>​​​​​​​ </p>
+
+            <p> My team and I each then created <em> tasks </em> and a <em> scenario </em> for our persona, so that we could get a better idea of how our users will be using the application.  This enables us to start to get an idea of how to best design our app’s UI and workflows.​​​​​​​</p>
+
+
+
 
 
 
