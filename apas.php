@@ -148,6 +148,23 @@ include("includes/header.php");
 
             <p> My team and I each then created <em> tasks </em> and a <em> scenario </em> for our persona, so that we could get a better idea of how our users will be using the application.  This enables us to start to get an idea of how to best design our app’s UI and workflows.​​​​​​​</p>
 
+            <div>
+                <figure>
+                    <img src = "images/apasstoryboard.png" alt = "Storyboard for any person any activity"/>
+                    <figcaption>
+                        Storyboard
+                    </figcaption>
+                </figure>
+
+                <figure>
+                    <img src = "images/apasUIsketch.png" alt = "My UI sketch for any person any activity"/>
+                    <figcaption>
+                        UI Sketch
+                    </figcaption>
+                </figure>
+
+            </div>
+
 
 
 
